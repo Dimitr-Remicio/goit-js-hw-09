@@ -7,6 +7,12 @@
     --button-color--disable:#3da568;
     --button-color:#59ff75;
     --box-shadow:#00000044;
+
+    --border-color:#20222c;
+    --border-color-contr:#20222c;
+    
+    --black-color:#000000;
+    --white-color:#ffffff;
 }
 .darkmode{
     --background-color: #131313;
@@ -17,4 +23,11 @@
     --button-color:#eca84e;
     --button-color--disable:#a0753c;
     --box-shadow:#fa960017;
+    
+    
+    --border-color-contr:#ffffff;
+    --border-color:#20222c;
+    
+    --black-color:#000000;
+    --white-color:#ffffff;
 }
