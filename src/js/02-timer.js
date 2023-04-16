@@ -1,6 +1,6 @@
 import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
-require("flatpickr/dist/themes/dark.css");
+require("../css/dark.css");
 
 import Notiflix from 'notiflix';
 
